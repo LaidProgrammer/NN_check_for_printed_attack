@@ -1,2 +1,2 @@
 # NN_check_for_printed_attack
-Alternative text.
+When you clone this repository, you need to unpack the net/my_net_file.pth
